@@ -6,8 +6,7 @@ Let's say you find data from the web, and there is no direct way to download it,
 
 **Beautiful Soup** is a Python library used for web scraping purposes to pull the data out of HTML and XML files. It provides Pythonic idioms for **iterating, searching, and modifying the parse tree,** which is useful for extracting information from web pages.
 
-**What are we going to do in this session-
-**
+**What are we going to do in this session-**
 - Data extraction from the web using Python's Beautiful Soup module
 - Data manipulation and cleaning using Python's Pandas library
 - Data visualization using Python's Matplotlib library
